@@ -13,3 +13,5 @@ Download or clone and run:
 # Run
 
 `python3 generate_password.py`
+
+![Alt text](/screenshots/password-generator.png?raw=true "Password Generator")
